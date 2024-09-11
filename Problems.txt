@@ -1,0 +1,4 @@
+Problems Faced :- 
+1. Not enough data found online
+2. Not much open-source data 
+3. Less Live interaction
